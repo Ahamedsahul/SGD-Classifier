@@ -21,7 +21,7 @@ Program to implement the prediction of iris species using SGD Classifier.
 Developed by:   AHAMED SAHUL HAMEED M
 RegisterNumber:  212224040016
 ```
-```
+```python
 import pandas as pd
 from sklearn.datasets import load_iris
 from sklearn.linear_model import SGDClassifier
